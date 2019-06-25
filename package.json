@@ -1,6 +1,6 @@
 {
   "name": "react-large-datalist",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Dropdown element for large data set",
   "main": "dist/index.js",
   "scripts": {
