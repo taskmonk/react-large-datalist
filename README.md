@@ -16,12 +16,12 @@
 
 ----
 ## Install
-    npm i react-large-data-list
+    npm i react-large-datalist
 
 ## Code
 
     ...
-    import ReactLargeDatalist from 'react-large-data-list';
+    import ReactLargeDatalist from 'react-large-datalist';
     ...
     ...
     <ReactLargeDatalist
