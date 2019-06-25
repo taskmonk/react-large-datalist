@@ -1,5 +1,9 @@
 # React large data list
- React drop down for large data items.
+ React drop down for large data items. 
+
+# Why this component?
+ * This is designed for the purpose of handling large number of dropdown items. 
+ * Most of the popular React dropdown libraries slow down massively when the dataset has more than 1000 items. This component can handle any large data set without any significant slowness.
 
 ----
 ## Props
