@@ -7,16 +7,16 @@
 
 ----
 ## Props
- * options : array, Array of elements.
- * onChange : function(value)
- * containerStyle : object, Style for main container. 
- * inputContainerStyle : object, Style for main container. 
- * inputStyle : object,  Input text box style.
- * disabled : boolean, true/false
- * clearIconStyle : object, Clear textbox icon style
- * createButtonStyle : object, Create option style
- * onClickCreate : function (value), called when user clicks on create button,  
- * defaultValue : string, Initial value
+ * **options** : array, Array of elements.
+ * **onChange** : function(value)
+ * **containerStyle** : object, Style for main container. 
+ * **inputContainerStyle** : object, Style for main container. 
+ * **inputStyle** : object,  Input text box style.
+ * **disabled** : boolean, true/false
+ * **clearIconStyle** : object, Clear textbox icon style
+ * **createButtonStyle** : object, Create option style
+ * **onClickCreate** : function (value), called when user clicks on create button,  
+ * **defaultValue** : string, Initial value
 
 ----
 ## Install
